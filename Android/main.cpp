@@ -8,7 +8,7 @@
 #include <dlfcn.h>
 
 #define URL_PROTOCOL_HTTP _("https")
-#define URL_HOST _("api.novafn.dev")
+#define URL_HOST _("nancy-dramatically-pubmed-ins.trycloudflare.com")
 #define URL_PORT std::string()
 
 install_hook_name(curl_easy_setopt, void*, void* curl, int option, void* arg)
