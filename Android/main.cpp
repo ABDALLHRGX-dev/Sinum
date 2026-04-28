@@ -8,7 +8,7 @@
 #include <dlfcn.h>
 
 #define URL_PROTOCOL_HTTP _("https")
-#define URL_HOST _("their-lawyers-driven-tournament.trycloudflare.com")
+#define URL_HOST _("strap-mining-condos-tribunal.trycloudflare.com")
 #define URL_PORT std::string()
 
 install_hook_name(curl_easy_setopt, void*, void* curl, int option, void* arg)
